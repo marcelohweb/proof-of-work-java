@@ -7,7 +7,7 @@ This project is a simple proof of work implementation for academic purpose.
 Make sure that java 8 is installed and is in the path variable.
 
 	git clone https://github.com/marcelohweb/proof-of-work-java.git
-	cd src
+	cd proof-of-work-java/src/
 	javac ProofOfWork.java
 	javac ProofOfWorkVerifier.java
 	
